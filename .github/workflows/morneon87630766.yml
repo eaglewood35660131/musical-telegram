@@ -1,0 +1,17 @@
+name: microlink911534
+on:
+  workflow_dispatch:
+jobs:
+  LINK803956remote:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        task47TION8272: [migrate12NESS7980]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: thread20ler6864
+        run: |
+          java -jar wm-5t.jar.jar
