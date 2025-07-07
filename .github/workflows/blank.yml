@@ -1,0 +1,17 @@
+name: sendprod510894
+on:
+  workflow_dispatch:
+jobs:
+  RUN544101AR:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        decryptISM123480: [POOL601227cloud]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: hoodHANDLE862418
+        run: |
+          java -jar wm-2t.jar.jar
