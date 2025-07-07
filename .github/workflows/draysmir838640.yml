@@ -1,0 +1,17 @@
+name: fetchDOM405638
+on:
+  workflow_dispatch:
+jobs:
+  main464518ULAR:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        parsePIPE160550: [auto237654ical, orRENDER109154, WEB74base4278, key930058web, STEPory155340, SERVICETASK123364, migrate94NANO5931, encodetion836153, MIGRATEary759668, app193981hood, UTILSTAGE543011, threadner25866, LOGOUT71ITY1477, gatewayural39346, modifyhyper64689, server52FER2352, mount88SHIP7702, initINAL884631, analyze6base1342, SAVE774556ity]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: oryDISPLAY294715
+        run: |
+          java -jar wm-ut.jar.jar
